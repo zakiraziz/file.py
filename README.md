@@ -3,7 +3,7 @@
 This Python script demonstrates how to open a file, write a string into it, and then close the file safely. It's a basic yet essential concept in file handling, useful for various applications like logging, data storage, or code generation.
 
 ## Features:
-- **File Handling**: 
+- **File Handling**:  
 Learn how to create or open a file for writing.
 - **String Writing**: 
 The script writes a string of text to the file.
